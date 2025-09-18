@@ -1,4 +1,4 @@
-# 🧠 Data Science Projects – Pragati AI
+# 🧠 Data Science Projects – Excelr
 
 This repository contains my completed assignments for the Data Science course conducted by Pragati AI. All work was developed in Google Colab and covers a wide range of machine learning and statistical techniques.
 
